@@ -1,0 +1,45 @@
+.contato-section {
+    color: red;
+    display: flex;
+   
+    justify-content: space-between;
+   
+    background-color: rgb(0, 0, 0);
+}
+
+ 
+
+.centralizador-2 {
+    
+    font-size: 75px;
+    text-align: center;
+    
+    color: rgb(83, 130, 145);
+    
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    padding: 15px 75px ;
+    width: 30%;
+    border: 20px;
+}
+
+.text-left {
+    color: rgb(83, 130, 145);
+    display: grid;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.creditos-contato {
+    display: inline;
+    display: block;
+
+}
+
+.ionicon {
+    width: 25px;
+    height: 50px;
+}

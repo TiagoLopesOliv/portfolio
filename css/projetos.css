@@ -1,0 +1,24 @@
+.projetos-section {
+    color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(36, 41, 41);
+}
+
+.centralizar {
+    font-size: 75px;
+    text-align: center;
+    color: rgb(83, 130, 145);
+    
+    
+}
+
+.github-centralized {
+    padding: 8px 10px;
+    background-color: brown;
+    border-radius: 0.8rem;
+    font-size: 30px;
+}
+

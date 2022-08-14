@@ -1,2 +1,9 @@
-# portfolio
-Portfolio for to find my first job 
+Olá, eu sou Tiago Lopes =)
+
+- 🔭 Eu sou desenvolvedor Front-End Junior
+- 🌱 Atualmente estou estudando ReactJS
+- Pronomes: Ele/Dele
+
+
+  
+  

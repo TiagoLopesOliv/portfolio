@@ -1,0 +1,30 @@
+.biografia-section {
+    color: rgb(83, 130, 145);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.txt {
+    margin: 50px;
+    font-size: 50px;
+   
+}
+
+.linkedin {
+    padding: 8px 16px;
+    background-color: brown;
+    border-radius: 0.8rem;
+    font-size: 30px;
+    
+}
+
+.margin-padding-left-width {
+    
+    width: min-content;
+}
+
+.github-centralized {
+    justify-content: center;
+    
+}
